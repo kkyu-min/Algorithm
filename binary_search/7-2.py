@@ -1,9 +1,5 @@
 # 떡볶이 떡 만들기
 
-
-import re
-
-
 n,m = map(int,input().split())
 
 length=list(map(int,input().split()))
